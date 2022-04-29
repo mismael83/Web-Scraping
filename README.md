@@ -6,7 +6,7 @@ That is the goal, to scrape a website that contains stats of your favorite sport
 
 Most sites with sports data use JavaScript to update the data dynamically. This means that we won’t be able to use the Beautiful Soup library for this project. Instead, we’ll use Selenium to click on buttons, select elements inside dropdowns, and extract the data we want.
 
-## Contents:
+## Steps:
 
 - importing selenium libraries
 - define the website, web driver path, and open the webpage
